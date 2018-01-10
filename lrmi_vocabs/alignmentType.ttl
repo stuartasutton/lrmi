@@ -8,7 +8,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-alignment: a skos:ConceptScheme ;
+alignment: a skos:ConceptScheme 
     dcterms:description "A concept scheme that defines the types of relationships between a learning resource and a node in an educational framework."@en-US ;
     dc:title "LRMI Alignment Type Vocabulary"@en-US ;
     dc:creator "LRMI Task Group (DCMI)"@en-US ;
